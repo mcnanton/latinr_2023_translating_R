@@ -1,0 +1,75 @@
+---
+title: "Convertite en R Contributor:"
+subtitle: "Aportando traducciones a R base"
+author: "Pao Corrales, María Nanton"
+institute: "Latin R 2022"
+date: "18-20 de octubre de 2023"
+output:
+  xaringan::moon_reader:
+    css: ["latinR.css"]
+    self_contained: true
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+---
+# Quiénes somos
+
+.pull-left[
+![](maria.jpeg)
+### María Nanton
+Universidad de Buenos Aires
+R-Ladies BA
+]
+
+.pull-right[
+![](maria.jpeg)
+### Pao Corrales
+línea
+línea
+]
+
+---
+# El proyecto: traducción colaborativa de R base (y paquetes recomendados)
+* + 20 idiomas
+* ~ 150k strings por idioma
+* decenas de personas colaborando en todo el mundo!
+
+---
+class: chapter-slide
+
+# Entonces... ¿cómo arrancar?
+
+---
+# Paso 1:
+Crea tu usuario en Weblate en https://translate.rx.studio/
+
+.center[<img src="weblate1.jpg"/>]
+
+---
+# Paso 2:
+Elige el proyecto, idioma al que quieres contribuir y un componente en el que trabajar
+
+.center[<img src="weblate2.jpg"/>]
+
+
+
+---
+# Paso 3:
+A traducir!
+.center[<img src="weblate3.jpg"/>]
+
+---
+# Recursos que debes conocer
+* Sitio con pautas de traducción
+https://contributor.r-project.org/translations/
+* Guía de desarrollo de R, capítulo 9.2
+https://contributor.r-project.org/rdevguide/
+* Glosario para tu idioma (puedes acceder desde Weblate)
+
+---
+# ¿Cómo conocer a otrxs trabajando para contribuir a tu idioma?
+
+---
+class: chapter-slide
+
+# Gracias!
