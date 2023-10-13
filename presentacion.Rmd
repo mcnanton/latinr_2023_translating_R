@@ -22,14 +22,18 @@ R-Ladies BA
 ]
 
 .pull-right[
-![](maria.jpeg)
+![](pao.jpg)
 ### Pao Corrales
-línea
-línea
+Universidad de Buenos Aires
+R-Ladies Global Team
 ]
 
 ---
 # El proyecto: traducción colaborativa de R base (y paquetes recomendados)
+
+Forma parte del R Contribution Working Group que busca fomentar una comunidad más amplia y diversa de personas que contribuyan al desarrollo de R.
+
+
 * + 20 idiomas
 * ~ 150k strings por idioma
 * decenas de personas colaborando en todo el mundo!
@@ -43,31 +47,53 @@ class: chapter-slide
 # Paso 1:
 Crea tu usuario en Weblate en https://translate.rx.studio/
 
-.center[<img src="weblate1.jpg"/>]
+.center[<img src="weblate1.jpg" atl="Captura de pantalla que muestra cómo registrarse en weblate"/>]
 
 ---
 # Paso 2:
 Elige el proyecto, idioma al que quieres contribuir y un componente en el que trabajar
 
-.center[<img src="weblate2.jpg"/>]
+.center[<img src="weblate2.jpg" atl="Captura de pantalla que muestra las distintas componentes del projecto de traducción en español. Cada componente tiene una barra de progreso de traducción y también informaición sobre el porcentaje traducido y sin terminar."/>]
 
 
 
 ---
 # Paso 3:
 A traducir!
-.center[<img src="weblate3.jpg"/>]
+.center[<img src="weblate3.jpg" alt="Captura de pantalla de la interfaz de weblate, muestra un mensaje en inglés y el campo a completar con la traducción al español. A la derecha de la pantalla se muestra el glosario."/>]
 
 ---
 # Recursos que debes conocer
-* Sitio con pautas de traducción
+
+* Sitio con pautas de traducción:
 https://contributor.r-project.org/translations/
-* Guía de desarrollo de R, capítulo 9.2
-https://contributor.r-project.org/rdevguide/
+    * [Pautas para traducir al Español](https://contributor.r-project.org/translations/Conventions_for_Languages/Spanish-specific-translations.html)
+    * [Pautas para traducir al Portugues](https://contributor.r-project.org/translations/Conventions_for_Languages/Brazilian%E2%80%90Portugese-specific-translations.html)
 * Glosario para tu idioma (puedes acceder desde Weblate)
+* [Guía de desarrollo de R, capítulo 9.2](https://contributor.r-project.org/rdevguide/)
+
+--
+
+**¡Sumate a la discusion!**
+
+[R Contributors Slack](https://contributor.r-project.org/slack)
+* `#core-translation`
+* `#core-translation-es`
+
 
 ---
-# ¿Cómo conocer a otrxs trabajando para contribuir a tu idioma?
+# ¡Necesitamos tu ayuda!
+
+| Idioma | The R Project for Statistical Computing | The R Project recommended packages |
+|:------|:-----:|:------:|
+|Español | 40% | 0%|
+|Portugues | 75% | Por inciar |
+
+--
+
+### La meta
+
+Alcanzar el 100% de las traducciones para que se incorporen en la próxima versión de R que se publicará en abril de 2024.
 
 ---
 class: chapter-slide
