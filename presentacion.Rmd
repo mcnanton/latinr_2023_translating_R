@@ -2,8 +2,8 @@
 title: "Convertite en R Contributor:"
 subtitle: "Aportando traducciones a R base"
 author: "Pao Corrales, María Nanton"
-institute: "Latin R 2022"
-date: "18-20 de octubre de 2023"
+institute: "Latin R 2023"
+date: "18-20 de octubre"
 output:
   xaringan::moon_reader:
     css: ["latinR.css"]
@@ -18,7 +18,7 @@ output:
 ![](maria.jpeg)
 ### María Nanton
 Universidad de Buenos Aires
-R-Ladies BA
+R-Ladies Buenos Aires
 ]
 
 .pull-right[
@@ -39,6 +39,12 @@ Forma parte del R Contribution Working Group que busca fomentar una comunidad m�
 * decenas de personas colaborando en todo el mundo!
 
 ---
+# Proyectos que inspiraron contenidos y pautas
+
+![](logos_all.png)
+
+---
+
 class: chapter-slide
 
 # Entonces... ¿cómo arrancar?
